@@ -1,0 +1,11 @@
+TARGETNAME=ProcessMonitor
+TARGETPATH=.
+TARGETTYPE=DRIVER
+
+INCLUDES=C:\WinDDK\7\inc
+
+
+
+SOURCES= \
+    ..\ProcessMonitor.c \
+    ..\ProcessMonitor.rc
